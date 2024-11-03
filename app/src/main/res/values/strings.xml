@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cadastro de Atletas</string>
+    <string name="atleta">Atv_9_AtletasFragment_03_11</string>
+    <string name="atletajuvenil">Atleta Júnior</string>
+    <string name="atletasenior">Atleta Sênior</string>
+    <string name="atletaoutros">Outros Atletas</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="nome">Nome</string>
+    <string name="data">Data Nasc.</string>
+    <string name="bairro">Bairro</string>
+    <string name="anos">Anos de Prática</string>
+    <string name="sim">Sim</string>
+    <string name="não">Não</string>
+    <string name="problema">Tem problemas cardíacos?</string>
+    <string name="academia">Academia que frequenta:</string>
+    <string name="record">Record em segundos:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
